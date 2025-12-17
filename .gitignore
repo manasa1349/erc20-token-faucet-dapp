@@ -1,0 +1,24 @@
+# Node
+node_modules/
+frontend/node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Hardhat
+artifacts/
+cache/
+coverage/
+coverage.json
+typechain/
+
+# Frontend build
+frontend/dist/
+
+# Environment files
+.env
+frontend/.env
+
+# OS files
+.DS_Store
+Thumbs.db
